@@ -29,4 +29,4 @@ The dataset is structured to support exploratory analysis, trend identification,
 
 # Screenshots / Demos
 *Show what the dashboard looks like. [Alt text](https://github.com/username/repo/assets/image.png).
-*Example: I[Dashboard Preview](https://github.com/username/repo/assets/image.rog)
+*Example: I[Dashboard Preview]([https://github.com/username/repo/assets/image.rog](https://github.com/rishuprasad05/Netflix-Dashboard/blob/main/Netflix%20Dashboard.png)
