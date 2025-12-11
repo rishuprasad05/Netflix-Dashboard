@@ -28,5 +28,5 @@ Dataset Includes:
 The dataset is structured to support exploratory analysis, trend identification, and viewer engagement insights.
 
 # Screenshots / Demos
-*Show what the dashboard looks like. [Alt text](https://github.com/username/repo/assets/image.png).
-*Example: I[Dashboard Preview]([https://github.com/username/repo/assets/image.rog](https://github.com/rishuprasad05/Netflix-Dashboard/blob/main/Netflix%20Dashboard.png)
+*Show what the dashboard looks like. [Alt text](https://github.com/rishuprasad05/Netflix-Dashboard/blob/main/NETFLIX%20Project.pbit).
+*Example: I[Dashboard Preview](https://github.com/rishuprasad05/Netflix-Dashboard/blob/main/Netflix%20Dashboard.png)
